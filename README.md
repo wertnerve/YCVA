@@ -17,8 +17,11 @@ At this time the default download location is the user's Video Folder
 
 For the EXE:
 
-Currently only supprots windows. Please run the .exe as an adminsitrator
+Currently only supports windows. Please run the .exe as an adminsitrator
 
+May trigger Windows Security to ensure you want to run the .exe
+The trigger is caused since this .exe was made using the pyinstaller library. 
+I completely understand if a simple "Trust me" doesn't suffice, but I can promise that the .exe only runs the code listed in YMCA.py
 
 Things to Note:
 This program does not allocate the required space needed to download all nessecary files
