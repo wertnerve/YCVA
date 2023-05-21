@@ -26,13 +26,14 @@ Age Restricted Videos and private videos are undable to be
 
 For the Python File:
 
+This project would have been impossible without the spectacular work of the authors for the below Python Libraries. 
+
+Thank you to Nick Ficano, Dermasmid and Kenneth Reitz
 Required Libraries:
-[
+
 https://github.com/pytube/pytube](https://pypi.org/project/pytube/)
 https://pypi.org/project/scrapetube/
 https://pypi.org/project/requests/
 
-https://docs.python.org/3/library/re.html
-
-
+re is part of the Python Standard Library and does not need to be downloaded via pip
 - 
