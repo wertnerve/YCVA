@@ -1,7 +1,7 @@
 # YCVA
 Youtube Channel Video Archiver is designed to streamlne the process of downloading all available videos from a Youtube Channel.
 
-Whenlaunched, the app will prompt for the Channel URL, please enter in the below format
+When launched, the app will prompt for the Channel URL, please enter in the below format
 
 https://www.youtube.com/@channelName
 
@@ -24,8 +24,9 @@ The trigger is caused since this .exe was made using the pyinstaller library.
 I completely understand if a simple "Trust me" doesn't suffice, but I can promise that the .exe only runs the code listed in YMCA.py
 
 Things to Note:
-This program does not allocate the required space needed to download all nessecary files
-Age Restricted Videos and private videos are undable to be
+- This program does not allocate the required space needed to download all nessecary files
+
+- Age Restricted Videos and private videos are undable to be downloaded 
 
 For the Python File:
 
